@@ -33,6 +33,9 @@
     <Compile Include="magical or dundal mehod.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="line and cylinder class.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="polymorphism.py">
       <SubType>Code</SubType>
     </Compile>
