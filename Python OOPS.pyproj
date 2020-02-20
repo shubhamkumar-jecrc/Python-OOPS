@@ -36,6 +36,9 @@
     <Compile Include="line and cylinder class.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="bank class 2 attributes methods special methos.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="polymorphism.py">
       <SubType>Code</SubType>
     </Compile>
