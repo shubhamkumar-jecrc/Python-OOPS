@@ -5,7 +5,13 @@ class Line:
         self.y1=coor1[1]
         self.y2=coor2[1]
 
+        #another way
+        #self.coor1=coor1
+        #self.coor2=coor2
+
     def distance(self):
+        #x1,y1=self.coor1
+        #x2,y2=self.coor2
         return (((self.x2-self.x1)**2)+((self.y2-self.y1)**2))**0.5
     def slope(self):
         return ((self.y2-self.y1)/(self.x2-self.x1))
